@@ -15,4 +15,5 @@ Each problem refers to a file with name of the problem index.
 
 ## Failed
 
-10
+- [ ] 10
+- [ ] 18
