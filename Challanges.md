@@ -28,6 +28,9 @@
 | 21       | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |  🔒[✅](./problems/21.md)  | <font color=orange>Medium</font> | ●[<font color=red>23. Merge k Sorted Lists</font>](https://leetcode.com/problems/merge-k-sorted-lists) ●[<font color=green>88. Merge Sorted Array</font>](https://leetcode.com/problems/merge-sorted-array) ●[<font color=orange>148. Sort List</font>](https://leetcode.com/problems/sort-list) ●[<font color=orange>244. Shortest Word Distance II</font>](https://leetcode.com/problems/shortest-word-distance-ii)|
 | 22       | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |  [✅](./problems/22.md)  | <font color=orange>Medium</font> | ●[<font color=orange>78. Subsets</font>](https://leetcode.com/problems/subsets) ●[<font color=green>293. Flip Game</font>](https://leetcode.com/problems/flip-game) ●[<font color=orange>526. Beautiful Arrangement</font>](https://leetcode.com/problems/beautiful-arrangement)|
 | 23       | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |  [✅](./problems/23.md)  | <font color=red>Hard</font> | ●[<font color=orange>264. Ugly Number II</font>](https://leetcode.com/problems/ugly-number-ii) |
+| 24       | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  🔒[✅](./problems/24.md)  | <font color=orange>Medium</font> | ●[<font color=red>25. Reverse Nodes in k-Group</font>](https://leetcode.com/problems/reverse-nodes-in-k-group)|
+
+
 
 
 | 5       | []() |  [✅](./problems/.md)  | <font color=orange>Medium</font> | 
