@@ -30,6 +30,7 @@
 | 23       | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |  [✅](./problems/23.md)  | <font color=red>Hard</font> | ●[<font color=orange>264. Ugly Number II</font>](https://leetcode.com/problems/ugly-number-ii) |
 | 24       | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  🔒[✅](./problems/24.md)  | <font color=orange>Medium</font> | ●[<font color=red>25. Reverse Nodes in k-Group</font>](https://leetcode.com/problems/reverse-nodes-in-k-group)|
 | 25       | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |  🔒[✅](./problems/25.md)  | <font color=red>Hard</font> | ●[<font color=orange>92. Reverse Linked List II</font>](https://leetcode.com/problems/reverse-linked-list-ii) ●[<font color=green>203. Remove Linked List Elements</font>](https://leetcode.com/problems/remove-linked-list-elements) ●[<font color=green>206. Reverse Linked List</font>](https://leetcode.com/problems/reverse-linked-list)|
+| 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  [✅](./problems/26.md)  | <font color=green>Easy</font> | ●[<font color=green>27. Remove Element</font>](https://leetcode.com/problems/remove-element) ●[<font color=orange>80. Remove Duplicates from Sorted Array II</font>](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |
 
 
 
