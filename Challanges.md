@@ -2,6 +2,8 @@
 
 ---
 
+🕛: no solution provided
+🔒: no authority to view
 
 | Problem | Title | Solution | Difficulty | Next Challangs |
 | :-----: | :---- | :----:   | :----:     | :---- |
@@ -12,7 +14,7 @@
 | 5       | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |  [✅](./problems/5.md)  | <font color=orange>Medium</font> | ●[<font color=red>214. Shortest Palindrome</font>](https://leetcode.com/problems/shortest-palindrome) ●[<font color=green>266. Palindrome Permutation</font>](https://leetcode.com/problems/palindrome-permutation) ●[<font color=red>336. Palindrome Pairs</font>](https://leetcode.com/problems/palindrome-pairs) ●[<font color=orange>516. Longest Palindromic Subsequence</font>](https://leetcode.com/problems/longest-palindromic-subsequence) ●[<font color=orange>647. Palindromic Substrings</font>](https://leetcode.com/problems/palindromic-substrings)|
 | 6       | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |  [✅](./problems/6.md)  | <font color=orange>Medium</font> | ●[<font color=red>65. Valid Number</font>](https://leetcode.com/problems/valid-number) ●[<font color=orange>1297. Maximum Number of Occurrences of a Substring</font>](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring) ●[<font color=red>1449. Form Largest Integer With Digits That Add up to Target</font>](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|
 | 7       | [Reverse Integer](https://leetcode.com/problems/reverse-integer) |  [✅](./problems/7.md)  | <font color=green>Easy</font> | ●[<font color=green>190. Reverse Bits</font>](https://leetcode.com/problems/reverse-bits/) |
-| 8       | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |  ❎[✅](./problems/8.md)  | <font color=orange>Medium</font> | ●[<font color=red>65. Valid Number</font>](https://leetcode.com/problems/valid-number)|
+| 8       | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |  🕛[✅](./problems/8.md)  | <font color=orange>Medium</font> | ●[<font color=red>65. Valid Number</font>](https://leetcode.com/problems/valid-number)|
 | 9       | [Palindrome Number](https://leetcode.com/problems/palindrome-number) |  [✅](./problems/9.md)  | <font color=green>Easy</font> | ●[<font color=green>234. Palindrome Linked List</font>](https://leetcode.com/problems/palindrome-linked-list) |
 | 10       | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |  [✅](./problems/10.md)  | <font color=red>Hard</font> | ●[<font color=red>44. Wildcard Matching</font>](https://leetcode.com/problems/wildcard-matching)|
 | 11      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |  [✅](./problems/11.md)  | <font color=orange>Medium</font> | ●[<font color=red>42. Trapping Rain Water</font>](https://leetcode.com/problems/trapping-rain-water)|
@@ -32,12 +34,9 @@
 | 25       | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |  🔒[✅](./problems/25.md)  | <font color=red>Hard</font> | ●[<font color=orange>92. Reverse Linked List II</font>](https://leetcode.com/problems/reverse-linked-list-ii) ●[<font color=green>203. Remove Linked List Elements</font>](https://leetcode.com/problems/remove-linked-list-elements) ●[<font color=green>206. Reverse Linked List</font>](https://leetcode.com/problems/reverse-linked-list)|
 | 26       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  [✅](./problems/26.md)  | <font color=green>Easy</font> | ●[<font color=green>27. Remove Element</font>](https://leetcode.com/problems/remove-element) ●[<font color=orange>80. Remove Duplicates from Sorted Array II</font>](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |
 | 27       | [Remove Element](https://leetcode.com/problems/remove-element/) |  [✅](./problems/27.md)  | <font color=green>Easy</font> | ●[<font color=green>203. Remove Linked List Elements</font>](https://leetcode.com/problems/remove-linked-list-elements) |
+| 28       | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) |  🔒[✅](./problems/28.md)  | <font color=green>Easy</font> | ●[<font color=red>214. Shortest Palindrome</font>](https://leetcode.com/problems/shortest-palindrome) ●[<font color=green>459. Repeated Substring Pattern</font>](https://leetcode.com/problems/repeated-substring-pattern) |
 
-
-
-
-
-| 5       | []() |  [✅](./problems/.md)  | <font color=orange>Medium</font> | 
+| 5       | []() |  🔒🕛[✅](./problems/.md)  | <font color=orange>Medium</font> | 
 ●[<font color=green></font>]() 
 ●[<font color=orange></font>]() 
 ●[<font color=red></font>]()|
