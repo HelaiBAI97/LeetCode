@@ -51,6 +51,10 @@
 | 509       | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |  [✅](./problems/509.md)  | <font color=green>Easy</font> | ●[<font color=green>70. Climbing Stairs</font>](https://leetcode.com/problems/climbing-stairs) ●[<font color=orange>842. Split Array into Fibonacci Sequence</font>](https://leetcode.com/problems/split-array-into-fibonacci-sequence) ●[<font color=orange>873. Length of Longest Fibonacci Subsequence</font>](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) ●[<font color=green>1137. N-th Tribonacci Number</font>](https://leetcode.com/problems/n-th-tribonacci-number)|
 | 518       | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) |  🔒[✅](./problems/518.md)  | <font color=orange>Medium</font> | ●[<font color=orange>161. One Edit Distance</font>](https://leetcode.com/problems/one-edit-distance) ●[<font color=orange>223. Rectangle Area</font>](https://leetcode.com/problems/rectangle-area) ●[<font color=orange>1079. Letter Tile Possibilities</font>](https://leetcode.com/problems/letter-tile-possibilities)|
 | 687       | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) |  [✅](./problems/687.md)  | <font color=orange>Medium</font> | ●[<font color=orange>250. Count Univalue Subtrees</font>](https://leetcode.com/problems/count-univalue-subtrees/) ●[<font color=green>437. Path Sum III</font>](https://leetcode.com/problems/path-sum-iii) |
+| 887       | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) |  [✅](./problems/887.md)  | <font color=red>Hard</font> | ●[<font color=green>374. Guess Number Higher or Lower</font>](https://leetcode.com/problems/guess-number-higher-or-lower/) ●[<font color=red>753. Cracking the Safe</font>](https://leetcode.com/problems/cracking-the-safe/) ●[<font color=green>1064. Fixed Point</font>](https://leetcode.com/problems/fixed-point/)|
+
+
+
 
 | 5       | []() |  🔒🕛[✅](./problems/.md)  | <font color=orange>Medium</font> | 
 ●[<font color=green></font>]() 
