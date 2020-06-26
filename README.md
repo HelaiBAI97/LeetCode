@@ -20,3 +20,4 @@ Each problem refers to a file with name of the problem index.
 - [ ] 22
 - [ ] 312
 - [ ] 887
+- [ ] 1143
