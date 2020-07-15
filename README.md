@@ -20,6 +20,7 @@ Each problem refers to a file with name of the problem index.
 - [ ] 22
 - [ ] 123
 - [ ] 142
+- [ ] 188s
 - [ ] 312
 - [ ] 326
 - [ ] 435
